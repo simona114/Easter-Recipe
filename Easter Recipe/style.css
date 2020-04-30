@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Comfortaa&family=Marck+Script&display=swap');
+h1, h2, h3{
+    color: red;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    /*font-family: 'Marck Script', cursive;*/
+    font-family: 'Caveat', cursive;
+    font-size: 2em;
+
+}
+ol, ul{
+	
+
+    width: 80%;
+}
+li{
+    font-size: medium;
+     margin: auto;
+	 
+}
+img {
+    margin: 0 0 0 0;
+    width: auto;
+    height: 200px;
+}
+#wrap{
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+    background: rgb(248, 248, 248);
+    font-family: 'Comfortaa', cursive;
+}
+.footStyle{
+	
+    padding-top: 20px;
+    color: darkred;
+    font-style: italic;
+    font-weight: bold;
+    border-top: 2px solid darkred;
+}
